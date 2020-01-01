@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://queithail.100dollarartshow.org/sitemap.xml
